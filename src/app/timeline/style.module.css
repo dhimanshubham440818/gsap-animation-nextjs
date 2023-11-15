@@ -1,0 +1,25 @@
+.body{
+    width: 100vw;
+    padding: 50px;
+    background-color: black;
+}
+.heading{
+    padding-bottom: 50px;
+    text-align: center;
+    color:rgb(241, 241, 97);
+}
+.box{
+    width: 200px;
+    margin: 5px;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: rgb(255, 252, 70);    
+}
+.container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}

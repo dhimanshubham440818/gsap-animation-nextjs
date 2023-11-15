@@ -1,0 +1,27 @@
+.body{
+    width: 100vw;
+    padding: 50px;
+    background-color: black;
+}
+.heading{
+    padding-bottom: 50px;
+    text-align: center;
+    color:rgb(241, 241, 97);
+}
+.box{
+    width: 200px;
+    margin: 5px;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: rgb(255, 70, 70);    
+}
+.box2{
+    border-radius: 50%;
+    background-color: rgb(97, 200, 241);    
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+}
